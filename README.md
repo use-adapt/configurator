@@ -13,7 +13,7 @@ You need the [Yarn](https://yarnpkg.com/) package manager to build the project. 
 have it installed,
 
 ```
-$ cd adapt
+$ cd configurator
 $ yarn install
 $ yarn start
 ```
